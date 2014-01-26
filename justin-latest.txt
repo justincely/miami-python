@@ -1,0 +1,28 @@
+University of Miami Python room plan.
+
+Day 1:
+1: Brief intro talk (Justin)
+2: Introduction to shell (Justin)
+ * All the basics.
+ * Work with UFO sightings to get to: 
+   * cat *.txt | cut -f6 -d' ' | sort -n | uniq   
+3: Intro Python (Victor)
+ * From the SWC notebook material
+   * Using the stsci-python materials
+     * add failure cases for types
+   * re: exceptions
+     * show people how to read the tracebacks
+ * Reproduce the UFO sightings examples in Python
+
+Day 2:
+1. git introduction (Justin)
+ * get people to commit for the rest of the day
+ * just local version control
+ * inform them that distributed version control exists, but don't show it yet
+1: Testing tutorial (VIctor)
+   * impress the need to be able to find errors quickly
+   * TDD is a waste of time for researchers
+   * cover assertions, nosetests
+ * Given time, we do a github explanation
+   * get people to push to their personal github repositories
+
