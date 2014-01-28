@@ -39,4 +39,5 @@ def parse_record(line_no, data):
     record['shape'] = data[4]
     return record['city'], record['state'], record['shape']
 
-print filereader(sys.argv[1])
+if __name__ == '__main__':
+    print filereader(sys.argv[1])
