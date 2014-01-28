@@ -19,10 +19,9 @@ Day 2:
  * get people to commit for the rest of the day
  * just local version control
  * inform them that distributed version control exists, but don't show it yet
-1: Testing tutorial (VIctor)
+1: Testing tutorial (Victor)
    * impress the need to be able to find errors quickly
    * TDD is a waste of time for researchers
    * cover assertions, nosetests
  * Given time, we do a github explanation
    * get people to push to their personal github repositories
-
