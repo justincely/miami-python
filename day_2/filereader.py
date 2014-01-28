@@ -39,5 +39,6 @@ def parse_record(line_no, data):
     record['shape'] = data[4]
     return record['city'], record['state'], record['shape']
 
-if __name__ == '__main__':
-    print filereader(sys.argv[1])
+def add(x, y):
+    return x + y
+
